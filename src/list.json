@@ -1,0 +1,45 @@
+
+{
+  "name": "Cinema Tier List",
+  "description": "La liste des meilleurs films de tous les temps",
+  "list": {
+    "S": [
+      {
+        "title": "Retour vers le futur",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg"
+      }
+    ],
+    "A": [
+      {
+        "title": "Le seigneur des anneaux",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/8/87/Ringstrilogyposter.jpg"
+      }
+    ],
+    "B": [
+      {
+        "title": "Le parrain",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/1/1c/TheGodfather_ver1.jpg"
+      }
+    ],
+    "C": [
+      {
+        "title": "Pulp Fiction",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/3/3b/Pulp_Fiction_%281994%29_poster.jpg"
+      }
+    ],
+    "D": [
+      {
+        "title": "Le bon, la brute et le truand",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/9/99/Il_buono_il_brutto_il_cattivo.jpg"
+      }
+    ],
+    "E": [
+      {
+        "title": "Le dernier samouraï",
+        "imageLink": "https://upload.wikimedia.org/wikipedia/en/9/9e/The_Last_Samurai.jpg"
+      }
+    ]
+  }
+}
+
+
